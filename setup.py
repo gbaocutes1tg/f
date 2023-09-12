@@ -1,0 +1,10 @@
+import os
+os.system("npm install url")
+os.system("npm install fs")
+os.system("npm install http2")
+os.system("npm install http")
+os.system("npm install tls")
+os.system("npm install net")
+os.system("npm install cluster")
+os.system("npm install fake-useragent")
+os.system("npm install colors")
